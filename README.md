@@ -1,2 +1,2 @@
-# hello-jenkins
+# agile-pilot
 Sample app
